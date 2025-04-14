@@ -1,5 +1,5 @@
 # EventFinder
-# EventFinder is an app that lets NJIT students find and register for events on campus. This project demonstrates aspects of design thinking and UI/UX skills.
+EventFinder is an app that lets NJIT students find and register for events on campus. This project demonstrates aspects of design thinking and UI/UX skills.
 
 # User Persona
 ![User Persona](https://github.com/user-attachments/assets/7a53831f-3567-4207-9c29-f12fbfe49f8f)
