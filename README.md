@@ -7,4 +7,5 @@ EventFinder is an app that lets NJIT students find and register for events on ca
 # User Journey
 ![Customer Journey Map](https://github.com/user-attachments/assets/09c0c680-4d1b-4556-870e-cef41b182866)
  
-# Figma Link : https://www.figma.com/proto/hBGieieeb2F7cQGvqXA3pl/EventFinder?node-id=0-1&t=AaK6NJClAfAtpsjl-1
+# Figma Link
+https://www.figma.com/proto/hBGieieeb2F7cQGvqXA3pl/EventFinder?node-id=0-1&t=AaK6NJClAfAtpsjl-1
